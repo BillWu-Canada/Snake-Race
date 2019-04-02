@@ -1,0 +1,9 @@
+c:\Photon\deploy\PhotonIntro\bin\PhotonIntro.dll
+c:\Photon\deploy\PhotonIntro\bin\PhotonIntro.pdb
+c:\users\panda\documents\visual studio 2012\Projects\PhotonIntro\PhotonIntro\obj\Debug\PhotonIntro.dll
+c:\users\panda\documents\visual studio 2012\Projects\PhotonIntro\PhotonIntro\obj\Debug\PhotonIntro.pdb
+c:\Photon\deploy\PhotonIntro\bin\log4net.config
+C:\Users\panda\Documents\Visual Studio 2012\Projects\PhotonIntro\PhotonIntro\obj\Debug\PhotonIntro.csprojResolveAssemblyReference.cache
+C:\Users\panda\Documents\Visual Studio 2012\Projects\SnakeOnlineBackEnd\PhotonIntro\obj\Debug\PhotonIntro.csprojResolveAssemblyReference.cache
+C:\Users\panda\Documents\Visual Studio 2012\Projects\SnakeOnlineBackEnd\PhotonIntro\obj\Debug\PhotonIntro.dll
+C:\Users\panda\Documents\Visual Studio 2012\Projects\SnakeOnlineBackEnd\PhotonIntro\obj\Debug\PhotonIntro.pdb

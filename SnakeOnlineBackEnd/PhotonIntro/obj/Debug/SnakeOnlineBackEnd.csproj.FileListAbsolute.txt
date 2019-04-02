@@ -1,0 +1,7 @@
+C:\Photon\deploy\PhotonIntro\bin\log4net.config
+C:\Photon\deploy\PhotonIntro\bin\PhotonIntro.dll
+C:\Photon\deploy\PhotonIntro\bin\PhotonIntro.pdb
+C:\Users\panda\Documents\Visual Studio 2012\Projects\SnakeOnlineBackEnd\SnakeOnlineBackEnd\obj\Debug\PhotonIntro.dll
+C:\Users\panda\Documents\Visual Studio 2012\Projects\SnakeOnlineBackEnd\SnakeOnlineBackEnd\obj\Debug\PhotonIntro.pdb
+C:\Users\panda\Documents\Visual Studio 2012\Projects\SnakeOnlineBackEnd\PhotonIntro\obj\Debug\PhotonIntro.dll
+C:\Users\panda\Documents\Visual Studio 2012\Projects\SnakeOnlineBackEnd\PhotonIntro\obj\Debug\PhotonIntro.pdb
